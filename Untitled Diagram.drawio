@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T11:16:36.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.7.0" etag="5YI9fOBPiuq5ADbm9Y8Y" type="github"><diagram id="Wd_oJn38wZUzVgSo89xS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-24T11:58:29.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="S6KmuE69ys4bzte1zW26" version="14.7.0" type="github">
+  <diagram id="Wd_oJn38wZUzVgSo89xS" name="Page-1">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pzFhs3liKInP-grsurP8-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;use-case&amp;nbsp;&lt;br&gt;Калькулятор&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=100;height=60;perimeterSpacing=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="280" width="2100" height="880" as="geometry" />
+        </mxCell>
+        <mxCell id="pzFhs3liKInP-grsurP8-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Пользователь&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pzFhs3liKInP-grsurP8-7" value="Ввод данных через графический интерфейс" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="645" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pzFhs3liKInP-grsurP8-14" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pzFhs3liKInP-grsurP8-4" target="pzFhs3liKInP-grsurP8-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="660" as="sourcePoint" />
+            <mxPoint x="730" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pzFhs3liKInP-grsurP8-26" value="Ввод операнда" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="515" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pzFhs3liKInP-grsurP8-27" value="Ввод тригонометрической функции" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="775" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pzFhs3liKInP-grsurP8-28" value="" style="endArrow=open;endFill=1;endSize=12;html=1;dashed=1;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="pzFhs3liKInP-grsurP8-7" target="pzFhs3liKInP-grsurP8-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="270" y="600" as="sourcePoint" />
+            <mxPoint x="430" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
