@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T17:13:20.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0oV9KQfXnF_Z-XNC9CSL" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T17:17:37.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RITJsa1fTtrBEVR-8HCd" version="14.7.1" type="github">
   <diagram id="qiaAuTDV7NTGHGd4vHyj" name="Page-1">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,7 +221,7 @@
           <mxGeometry x="600" y="1010" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-116" value="Order" style="swimlane;fontStyle=3;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="584.75" y="1150" width="170.49" height="232" as="geometry" />
+          <mxGeometry x="584.75" y="1150" width="170.49" height="262" as="geometry" />
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-117" value="# orderID : int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;fontStyle=3" vertex="1" parent="ekyJCNLIAkahPHgSJpq3-116">
           <mxGeometry y="30" width="170.49" height="26" as="geometry" />
@@ -238,17 +238,20 @@
         <mxCell id="ekyJCNLIAkahPHgSJpq3-123" value="# departure : string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;fontStyle=3" vertex="1" parent="ekyJCNLIAkahPHgSJpq3-116">
           <mxGeometry y="140" width="170.49" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ekyJCNLIAkahPHgSJpq3-127" value="# reportID (0. *):  reportCase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;fontStyle=3" vertex="1" parent="ekyJCNLIAkahPHgSJpq3-116">
+        <mxCell id="ekyJCNLIAkahPHgSJpq3-154" value="# reportID (0. *):  reportCase" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;fontStyle=3" vertex="1" parent="ekyJCNLIAkahPHgSJpq3-116">
           <mxGeometry y="170" width="170.49" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ekyJCNLIAkahPHgSJpq3-153" value="" style="endArrow=none;html=1;entryX=0.996;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;fontStyle=3" edge="1" parent="ekyJCNLIAkahPHgSJpq3-116" target="ekyJCNLIAkahPHgSJpq3-152">
+        <mxCell id="ekyJCNLIAkahPHgSJpq3-127" value="# cost  :  int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;fontStyle=3" vertex="1" parent="ekyJCNLIAkahPHgSJpq3-116">
+          <mxGeometry y="200" width="170.49" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ekyJCNLIAkahPHgSJpq3-153" value="" style="endArrow=none;html=1;entryX=0.999;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;fontStyle=3;exitX=0.001;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ekyJCNLIAkahPHgSJpq3-116" source="ekyJCNLIAkahPHgSJpq3-127" target="ekyJCNLIAkahPHgSJpq3-152">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="200" as="sourcePoint" />
             <mxPoint x="140.98000000000002" y="200.0139999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-152" value="+ createOrder() : void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;fontStyle=3" vertex="1" parent="ekyJCNLIAkahPHgSJpq3-116">
-          <mxGeometry y="200" width="170.49" height="32" as="geometry" />
+          <mxGeometry y="230" width="170.49" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-128" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ekyJCNLIAkahPHgSJpq3-137" target="ekyJCNLIAkahPHgSJpq3-127">
           <mxGeometry width="160" relative="1" as="geometry">
