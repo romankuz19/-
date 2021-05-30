@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T17:21:06.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="M9pgYx4bOiQL0nnOJmXL" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T17:22:50.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="uZL4YKr4GNI-Kgfrr5W4" version="14.7.1" type="github">
   <diagram id="qiaAuTDV7NTGHGd4vHyj" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
           <mxGeometry x="810" y="250" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-93" value="Client" style="swimlane;fontStyle=3;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="599.02" y="1470" width="140" height="230" as="geometry" />
+          <mxGeometry x="599.01" y="1490" width="140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-94" value="- clientID : string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;fontStyle=3" parent="ekyJCNLIAkahPHgSJpq3-93" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -176,7 +176,7 @@
           <mxGeometry y="200" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-101" value="- cardInfo : string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;fontStyle=3" parent="1" vertex="1">
-          <mxGeometry x="599.02" y="1600" width="140" height="26" as="geometry" />
+          <mxGeometry x="599.01" y="1620" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-108" value="Driver" style="swimlane;fontStyle=3;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="599.5" y="830" width="140" height="236" as="geometry" />
