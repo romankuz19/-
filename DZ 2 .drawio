@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T13:18:15.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="FV-rk1Z0Ijd5cWmdBUsQ" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T13:19:23.402Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="CvaWIH6nzu5RJojVz6TE" version="14.7.1" type="github">
   <diagram id="qiaAuTDV7NTGHGd4vHyj" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
           <mxGeometry x="810" y="250" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-68" value="Сервис такси" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="590" width="30" height="60" as="geometry" />
+          <mxGeometry x="1070" y="630" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-69" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ekyJCNLIAkahPHgSJpq3-51" target="ekyJCNLIAkahPHgSJpq3-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
