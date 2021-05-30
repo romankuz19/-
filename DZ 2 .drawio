@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T13:15:45.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="w-JomdiE8pZAIJJHN3Xn" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T13:16:28.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="G4H0d75h9vQhFzPD-rxk" version="14.7.1" type="github">
   <diagram id="qiaAuTDV7NTGHGd4vHyj" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
             <mxPoint x="360" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ekyJCNLIAkahPHgSJpq3-21" value="Регистрация в приложении сервиса" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ekyJCNLIAkahPHgSJpq3-21" value="Регистрация" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="140" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-24" value="Ввод ФИО" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
