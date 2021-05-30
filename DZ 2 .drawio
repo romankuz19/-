@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T17:20:18.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="v2djgsgB1EK75R7j9HvA" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-30T17:21:06.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="M9pgYx4bOiQL0nnOJmXL" version="14.7.1" type="github">
   <diagram id="qiaAuTDV7NTGHGd4vHyj" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -147,21 +147,6 @@
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-67" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="810" y="250" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ekyJCNLIAkahPHgSJpq3-68" value="Сервис такси" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="630" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ekyJCNLIAkahPHgSJpq3-69" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ekyJCNLIAkahPHgSJpq3-51" target="ekyJCNLIAkahPHgSJpq3-68" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="655" as="sourcePoint" />
-            <mxPoint x="1105" y="345" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ekyJCNLIAkahPHgSJpq3-70" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ekyJCNLIAkahPHgSJpq3-50" target="ekyJCNLIAkahPHgSJpq3-68" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="745" as="sourcePoint" />
-            <mxPoint x="1115" y="630" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ekyJCNLIAkahPHgSJpq3-93" value="Client" style="swimlane;fontStyle=3;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=GOST type A;fontSource=https%3A%2F%2Fwebfonts.pro%2Flight-fonts%2F123-gost_type_a.html;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="599.02" y="1470" width="140" height="230" as="geometry" />
